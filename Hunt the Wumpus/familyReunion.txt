@@ -1,0 +1,21 @@
+10
+1 2 6 10
+A floormat reads "To Grandma's House We Go"
+2 1 3 7
+This entire place smells like faded roses.
+3 2 4 8
+You see the bowl of hard candies.
+4 3 5 9
+Will someone mention your ex today? (*the suspense*)
+5 4 6 10
+You almost interrupt someone's afternoon nap.
+6 1 5 7
+Your cousins are plotting something against you.
+7 2 6 8
+Someone is talking politics to unsuspecting children.
+8 3 7 9
+No, Aunt Barb, I'm NOT seeing anyone.
+9 4 8 10
+You eat too much & lie down for a bit.
+10 1 5 9
+You get a strong sense of deja vu.
