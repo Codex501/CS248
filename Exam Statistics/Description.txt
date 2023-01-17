@@ -1,1 +1,1 @@
-
+This program will compute statistics on a list of exam scores. The user inputs a text file that contains these numbers and then it will print out the number of score,the min,max,average, and then the letter grade of each score using a 90-80-70-60 scale
