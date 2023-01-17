@@ -1,1 +1,1 @@
-
+In this program you were hired to help the camp keep track on who is enrolled and who withdrew from the camp.you will use binary search tree to maintain the set of campers enrolled. The user will have a text file having commands and the camper's name,age and whether they are vegan or not.
