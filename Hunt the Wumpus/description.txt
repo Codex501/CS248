@@ -1,1 +1,1 @@
-
+In this program we made the game Hunt the Wumpus (in the game, the user moves through a series of connected caves path as they try to hunt the wumpus with arrows and also avoid various trappes like a bottomless pit and bats carrying to another room) with a little twist instead of hunting a wumpus by avoiding the bottomless pits and bats you are trying to find your grandma to hug while avoiding family members
