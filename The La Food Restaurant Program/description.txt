@@ -1,1 +1,1 @@
-
+This new fancy restaurant has hired you to simulate people waiting for tables. The goal is to determine the average wait time of people waiting for tables. It will input a text file where the program will read the set instructions and save the data of the guest's name, time of arivial and when a table is available
