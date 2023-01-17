@@ -1,1 +1,1 @@
-
+This program plays the Guessing Game. It will pick anumber 1-100 and the user will guess, the program will then say if the guess is too high ot too low and end if the guess is correct
